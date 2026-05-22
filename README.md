@@ -1,17 +1,15 @@
 <h2 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">Aspiring game developer from the Bay Area!</h3>
+<h3 align="center">Developer from the Bay Area!</h3>
 
-I'm currently a 4th year CS Game Design student at University of California, Santa Cruz.
+Video games have always been a huge passion of mine. Over the course of my academic career I learned how to design and develop games! This has been a very rewarding experience and I've learned so much about development and collaboration that I continue to use to this very day.
 
-Video games have always been a huge passion of mine and over the course of my academic career I have designed and developed games. This has been a very rewarding experience and I've learned so much about development and collaboration.
+My particular interests are in level design and creating/developing game mechanics. I'm also interested in narrative games and creating an immersive single player experience!
 
-I'm particularly interested in level design and creating/developing game mechanics. I'm also interested in narrative games and creating an immersive single player experience!
-
-Outside of gaming and video game design I enjoy reading, outdoor activities (especially biking) and listening to pop music.
+Outside of gaming and video game design I enjoy reading, watching movies, biking and listening to music!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashleyperez____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashleyperez____" height="30" width="40" /></a>
+<a href="https://twitter.com/wingedgrenade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashleyperez____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
